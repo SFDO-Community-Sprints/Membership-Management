@@ -1,4 +1,5 @@
 This is NOT B2B, this is B2C.
++Tim 
 
 CHALLENGES
 
@@ -42,21 +43,33 @@ Up-selling! (upgrading memberships) / incentives
 
 USE CASE
 
-Memberships offered at various levels with diff prices & benefits attached.
-Sign up online or email org to express interest
-Decide on level right for person, that maybe based on individual preference or based on meeting criteria outlined by organisation (eg National Trust - based on HH numbers, kids ages etc)
+Buy a membership / subscriptiona
+Memberships offered at various levels with 
+different prices & benefits attached
+Sign up online or email org to express interest / get related information.  
+Decide on level right for person - 
+that maybe based on individual preference or 
+based on meeting criteria outlined by organisation (eg National Trust - based on HH numbers, kids ages etc)
 Sign up
 Payment - instant payment by card payments OR DD payments periodically
 Renewal periodically - most common is automatic monthly or annual (rolling contract) BUT needs to have an end date (when an auto renewal is not relevant)
 
-2. Upgrades/downgrade - a mid term upgrade or downgrade (sometimes due to hardship) of membership.  The calculation of their due amount changes if they are paying monthly/qrterly - need this re-calculation to be done on the back end (this costs money because of the manual lift to do calculations). Should obviously be able to upgrade/downgrade at renewal date.
+2. Upgrade / downgrade - a mid term upgrade or downgrade (sometimes due to hardship) of membership.  The calculation of their due amount changes if they are paying monthly/qrterly - need this re-calculation to be done on the back end (this costs money because of the manual lift to do calculations). Should obviously be able to upgrade/downgrade at renewal date.
 
 3. Discount - first 3 months at ½ price / month 1 free etc.  Need to be able to calculate the short term cost and then revert to full cost at the right time.  
 
+4. Hierarchical memberships - Corporate, Household, Individual & associated discounts
 
 
 
-PROCESS
+CUSTOMISATIONS NEEDED
+Length of current membership, length of total membership
+Payments: pay last 3 months in one go.
+
 
 1.	Sign up
-Needs toc
+Needs to create/edit Contact or Household Account and, we think, Membership Overview record/type on Opportunity 
+Start Date, End Date (if any), Membership Type (as published), and products if any
+Related list  
+
+
