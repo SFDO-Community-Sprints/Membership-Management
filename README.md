@@ -2,13 +2,14 @@
 
 #### Team Members:
 
-* Who participated in the Project Work? List all people that contribute over the entire Sprint, and be sure to include anyone from Salesforce.org that is helping you with this project.
-* Who is the Group Leader(s)? If none, who should be the main point of contact after the sprint? This may be Community members looking to contribute after the fact, or Salesforce.org staff looking for more information.
+Paul Ginsberg, Jurn Douwes Isema, .. , ..
 
 #### Project Overview:
 
-* Name of Project
-* Dream Idea which sparked this project
+Membership Management in NPSP
+
+How to tackle the problem of (renewing/changing/..) memberships (subscriptions, recurring donations) 
+
 * Dream Solution which sparked this project
 * Project Summary
     * What is the project?
