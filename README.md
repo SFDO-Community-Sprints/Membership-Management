@@ -2,7 +2,7 @@
 
 #### Team Members:
 
-Paul Ginsberg, Jurn Douwes Isema, .. , ..
+Paul Ginsberg, Jurn Douwes Isema, Lorenzo Gavazzeni , ..
 
 #### Project Overview:
 
