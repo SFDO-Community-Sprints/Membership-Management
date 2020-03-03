@@ -1,4 +1,4 @@
-# Added link to this repo from a more current Sprint project around NPSP Membership done at the Detroit Sprint 2019 https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits/blob/master/README.md
+* Added link to this repo from a more current Sprint project around NPSP Membership done at the Detroit Sprint 2019 https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits/blob/master/README.md
 
 # Membership-Management
 
