@@ -1,3 +1,6 @@
+# Depreciated
+Please see the newer MembershipSchemaAndBenefits(https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits) project
+
 # Membership-Management
 
 Add a brief description of this project here, in Markdown format.
